@@ -1,0 +1,4 @@
+﻿class,effcientnet,svm,ResNet50,Xgboost
+accuracy,0.9575,0.565,0.621,0.596
+roc_auc,0.9572,0.742,0.803,0.768
+f1_score,0.9954,0.555,0.623,0.595
